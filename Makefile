@@ -1,5 +1,6 @@
-CC = gcc
+CC = g++ -Wextra -O2 -std=c++17
 CC_FLAGS = -w -g
+
 
 
 
